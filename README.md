@@ -13,7 +13,7 @@
 
 ## Engineering Journey & Problem-Solving
 * **Initial Prototyping:** Validated base logic on a standard breadboard using OpenPLC ladder programming.
-* **Troubleshooting (The "Wired" Mess):** Identified that loose jumper connections caused intermittent faults, making it unsuitable for a handheld or field-portable unit.
+* **Troubleshooting:** Identified that loose jumper connections caused intermittent faults, making it unsuitable for a handheld or field-portable unit.
 * **Shield Solution:** Dedicated perfboard shield utilizing long female pin headers and mechanical standoffs to create a secure, modular stack directly on the Arduino.
 * **Fabrication Prep:** Precision-measured components with digital calipers and prepped custom-cut wiring harnesses for clean soldering.
 
