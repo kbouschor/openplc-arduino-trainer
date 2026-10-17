@@ -2,7 +2,7 @@
 
 > Building a portable, ruggedized industrial automation trainer powered by an Arduino Uno R3 running OpenPLC ladder logic, paired with a custom shield.
 
-![Hero Image](assets/hero.jpeg)
+![Hero Image](assets/hero.pdf)
 
 ## Overview
 * **Status:** 🚧 Active Development / In Progress
@@ -22,7 +22,7 @@
 ## Build Gallery
 | Initial Breadboard Concept | Wiring Challenges & Issues | OpenPLC Ladder Logic |
 | :---: | :---: | :---: |
-| ![Breadboard](assets/breadboard.jpeg) | ![Issues](assets/issues.jpeg) | ![Ladder](assets/ladder.jpg) |
+| ![Breadboard](assets/breadboard.JPG) | ![Issues](assets/issues.jpeg) | ![Ladder](assets/ladder.jpg) |
 
 | Custom Shield Solution | Soldering & Wire Prep | Component Measurement |
 | :---: | :---: | :---: |
@@ -30,7 +30,7 @@
 
 | Mechanical Dry Assembly | Current Status / Hero Shot |
 | :---: | :---: |
-| ![Dry Assembly](assets/dry-assembly.jpeg) | ![Hero](assets/hero.jpeg) |
+| ![Dry Assembly](assets/dry-assembly.jpeg) | ![Hero](assets/hero.pdf) |
 
 ---
 
