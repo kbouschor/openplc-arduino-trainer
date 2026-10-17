@@ -28,9 +28,9 @@
 | :---: | :---: | :---: |
 | ![Solution](assets/solution.jpeg) | ![Soldering Prep](assets/soldering-prep.jpeg) | ![Measure](assets/measure.jpeg) |
 
-| Mechanical Dry Assembly | Current Status / Hero Shot |
-| :---: | :---: |
-| ![Dry Assembly](assets/dry-assembly.jpeg) | ![Hero](assets/hero.jpg) |
+| Mechanical Dry Assembly | 
+| :---: | 
+| ![Dry Assembly](assets/dry-assembly.jpeg) | 
 
 ---
 
